@@ -1,6 +1,6 @@
 <?php
 
-namespace persianyii\Image;
+namespace persianyii\image;
 
 /**
  * This is just an example.
