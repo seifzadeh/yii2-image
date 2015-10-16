@@ -28,4 +28,7 @@ Usage
 Once the extension is installed, simply use it in your code by  :
 
 ```php
-<?= \persianyii\Image\Resize('file.jpg'); ?>```
+		$image = new \persianyii\image\Resize('/path/to/image.jpg');
+		$image->resizeTo(100, 100, 'exact');
+		$image->saveImage('/path/to/save.jpg');
+```
