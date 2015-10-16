@@ -4,6 +4,7 @@ image resize yii2
 
 Installation
 ------------
+<iframe src="http://www.aparat.com/video/video/embed/videohash/jeXMD/vt/frame" allowFullScreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" height="360" width="640" ></iframe>
 
 The preferred way to install this extension is through [composer](http://getcomposer.org/download/).
 
