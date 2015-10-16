@@ -1,0 +1,21 @@
+{
+    "name": "persianyii/yii2-image",
+    "description": "yii framework 2 image resize",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "GPL-2.0",
+    "authors": [
+        {
+            "name": "Mehrdad Seifzadeh",
+            "email": "mehrdad.seifzadeh@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "persianyii\\Image\\": ""
+        }
+    }
+}
